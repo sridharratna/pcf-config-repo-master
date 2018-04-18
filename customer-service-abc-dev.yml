@@ -1,0 +1,3 @@
+myApp:
+  properties:
+    hello-dev: "hello from customer-service-dev.yml"

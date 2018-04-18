@@ -1,0 +1,3 @@
+shared:
+  properties:
+    hazelcastConnectionString: "connection.string.to.hazelcast"
